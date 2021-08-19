@@ -801,4 +801,12 @@ class ComponentInstaller implements
 
         return [];
     }
+
+    public function deactivate(Composer $composer, IOInterface $io)
+    {
+    }
+
+    public function uninstall(Composer $composer, IOInterface $io)
+    {
+    }
 }
