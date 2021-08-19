@@ -1,5 +1,5 @@
 {
-    "name": "jvangestel/laminas-component-installer",
+    "name": "laminas/laminas-component-installer",
     "description": "Composer plugin for automating component registration in laminas-mvc and Mezzio applications",
     "type": "composer-plugin",
     "license": "BSD-3-Clause",
